@@ -7,7 +7,7 @@ Diving deeper in the MVC aspects of Rails
 1. Read the [Odin Project Routing Guide](http://www.theodinproject.com/ruby-on-rails/routing) and use it to <strong>answer the following questions</strong>
   1. What is the "Root" route?
       - "Root" is the root (home) directory of your project.
-  1. What are the seven RESTful routes for a resource?
+  1. What are the seven RESTful routes for a resource? <br>
       -index
       -show
       -edit
