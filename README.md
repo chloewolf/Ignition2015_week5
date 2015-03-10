@@ -8,13 +8,13 @@ Diving deeper in the MVC aspects of Rails
   1. What is the "Root" route?
       - "Root" is the root (home) directory of your project.
   1. What are the seven RESTful routes for a resource? <br>
-      -index
-      -show
-      -edit
-      -new
-      -create
-      -update
-      -destroy
+      -index  
+      -show  
+      -edit  
+      -new  
+      -create  
+      -update  
+      -destroy  
   1. Which RESTful routes share the same URL but use different verbs?
       - index
       - new
