@@ -1,6 +1,7 @@
 #### Deliverables for week 5 Rails MVC
 ##### Odin Project Routing Guide Questions:
 - What is the "Root" route?
+    - "Root" is the root (home) directory of your project.
 - What are the seven RESTful routes for a resource?
 - Which RESTful routes share the same URL but use different verbs?
 - How do you specify an ID or other variable in a route?
