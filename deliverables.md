@@ -11,12 +11,19 @@
       - update  
       - destroy 
 - Which RESTful routes share the same URL but use different verbs?
+      - index
+      - new
+      - show
+      - edit
 - How do you specify an ID or other variable in a route?
+      - id is prepended with a colon, other variables can be prepended with a forward-slash.
 - How can you easily write all seven RESTful routes in Rails?
+      - resources :posts
 - What is the Rails helper method that creates the HTML for links?
-
+      - link_to
 ##### Odin Project Views Guide Questions:
 - What is a layout?
+    -    
 - What's the difference between a "view template" and a "layout"?
 - What is a "Preprocessor"?
 - Why are preprocessors useful?
