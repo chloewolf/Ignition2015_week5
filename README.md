@@ -8,12 +8,7 @@ Diving deeper in the MVC aspects of Rails
   1. What is the "Root" route?
   1. What are the seven RESTful routes for a resource? <br>
   1. Which RESTful routes share the same URL but use different verbs?
-      - index
-      - new
-      - show
-      - edit
   1. How do you specify an ID or other variable in a route?
-      - 
   1. How can you easily write all seven RESTful routes in Rails?
   1. What is the Rails helper method that creates the HTML for links?
 1. Read the [Odin Project Controller Guide](http://www.theodinproject.com/ruby-on-rails/controllers)
