@@ -50,4 +50,4 @@
     - asset tags grab image files 
 
 ##### Link to Odin Project Basic Routes, Views and Controllers repo: [my odin repo](<https://github.com/chloewolf/week-5-app>)
-##### Link to Hartl's Rails Tutorial Chapter 5 repo: [my hartl's repo](<https://github.com/chloewolf/testy->)
+##### Link to Hartl's Rails Tutorial Chapter 5 repo: [my hartl's repo](https://github.com/SenorJpolicar/testy-)
